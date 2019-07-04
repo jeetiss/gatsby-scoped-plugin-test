@@ -809,6 +809,11 @@
   dependencies:
     "@hapi/hoek" "8.x.x"
 
+"@jeetiss/gatsby-scoped-plugin@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@jeetiss/gatsby-scoped-plugin/-/gatsby-scoped-plugin-0.0.1.tgz#58c1b65504b6bf9ee9cc1096d5349d60a0f04d3a"
+  integrity sha512-zrBgMujgqW45qC6SHDf+xNJo7xwYCiKxaxsyh1MvmOLj+0/l2IiRG4Jl+jVpDT5Gex/30LYyfMlrVLnTi0s3Vw==
+
 "@jimp/bmp@^0.6.4":
   version "0.6.4"
   resolved "https://registry.yarnpkg.com/@jimp/bmp/-/bmp-0.6.4.tgz#0f4b94486e979d82c83e1e87cd00b756afb26e49"
